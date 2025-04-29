@@ -14,17 +14,17 @@
   - "Correlation plot" between votes and ratings. 
 
 
-🛠️ **Technologies Used**
+🛠️ **Used**
 
-      – Streamlit, Pandas, Matplotlib, and Seabor
+      – Python(VSCode), SQL(TiDB), Streamlit, Pandas, Matplotlib, Seaborn and some necessary packages.
 
 🎥 **Impact** 
 
-      – Makes movie discovery engaging, filled with Fun, interactive, and data-driven movie exploration
+      – Makes movie discovery engaging, filled with fun, interactive, and data-driven movie exploration
 
 ❓ **Challenge**
 
-      – Too much data makes movie discovery difficult
+      – Too much data makes movie discovery some what difficult
 
 🚀 **Solution:** 
 
