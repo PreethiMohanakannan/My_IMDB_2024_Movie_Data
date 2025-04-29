@@ -16,7 +16,7 @@
 
 🛠️ **Used**
 
-      – Python(VSCode), SQL(TiDB), Streamlit, Pandas, Matplotlib, Seaborn and some necessary packages.
+      – Python(VSCode), SQL(TiDB), Selenium, Streamlit, Pandas, Matplotlib, Seaborn and some necessary packages.
 
 🎥 **Impact** 
 
